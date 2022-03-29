@@ -9,9 +9,6 @@ readme = "README.md"
 homepage = "https://rtstore.io"
 keywords = ["log", "unittest", "println"]
 
-[lib]
-proc-macro = true
-
 [dependencies]
 
 [dev-dependencies]
