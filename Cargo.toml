@@ -1,0 +1,16 @@
+[package]
+name = "uselog-rs"
+version = "0.1.0"
+edition = "2021"
+description = "`uselog_rs` can help you to `use log` for output log in `test mode` and `no test mode` with one line code like `uselog!(info, debug)`"
+license = "Apache-2.0"
+license-file = "LICENSE"
+readme = "README.md"
+homepage = "https://rtstore.io"
+keywords = ["log", "unittest", "println"]
+
+[dependencies]
+
+[dev-dependencies]
+log = "0.4.0"
+pretty_env_logger = "0.4.0"
