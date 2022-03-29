@@ -1,8 +1,8 @@
 [package]
 name = "uselog-rs"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2021"
-description = "`uselog_rs` can help you to `use log` for output log in `test mode` and `no test mode` with one line code like `uselog!(info, debug)`"
+description = "use log for outputing log in test and not test mode with one line code"
 license = "Apache-2.0"
 license-file = "LICENSE"
 readme = "README.md"
